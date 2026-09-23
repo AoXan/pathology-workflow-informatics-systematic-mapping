@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "Please cite the Journal of Pathology Informatics article."
+title: "Entity-aware pathology workflow informatics: Structured evidence mapping and a reference architecture for governed orchestration"
+authors:
+  - family-names: Li
+    given-names: Ao
+  - family-names: O'Loughlin
+    given-names: Peter
+  - family-names: Yue
+    given-names: Lin
+  - family-names: Zhang
+    given-names: Wei Emma
+  - family-names: Swart
+    given-names: Bernadette
+  - family-names: Chen
+    given-names: Weitong
+doi: 10.1016/j.jpi.2026.100720
+url: https://github.com/AoXan/pathology-workflow-informatics-systematic-mapping
+preferred-citation:
+  type: article
+  title: "Entity-aware pathology workflow informatics: Structured evidence mapping and a reference architecture for governed orchestration"
+  authors:
+    - family-names: Li
+      given-names: Ao
+    - family-names: O'Loughlin
+      given-names: Peter
+    - family-names: Yue
+      given-names: Lin
+    - family-names: Zhang
+      given-names: Wei Emma
+    - family-names: Swart
+      given-names: Bernadette
+    - family-names: Chen
+      given-names: Weitong
+  journal: Journal of Pathology Informatics
+  year: 2026
+  doi: 10.1016/j.jpi.2026.100720
